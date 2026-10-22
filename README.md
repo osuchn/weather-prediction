@@ -37,7 +37,7 @@ Kluczowy wniosek: zaawansowana imputacja (iterative, KNN) **nie poprawiła** wyn
 Python, scikit-learn, pandas, matplotlib
 
 ## Dane
-Publiczny zbiór pogodowy, zbiór udostępniony przez prowadzącego zajęcia. Danych nie dołączam do repozytorium; pełny kod i wyniki w notatniku.
+Publiczny zbiór pogodowy. Danych nie dołączam do repozytorium; pełny kod i wyniki w notatniku.
 
 ## Uruchomienie
 Otwórz notatnik w Colab (przycisk „Open in Colab" na górze) i odpal komórki po kolei.
